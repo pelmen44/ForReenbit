@@ -1,0 +1,13 @@
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\BlazorApp.exe
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\BlazorApp.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\BlazorApp.deps.json
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\BlazorApp.runtimeconfig.json
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\BlazorApp.pdb
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Blobs.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Common.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\System.IO.Hashing.dll
+B:\Reenbit\BlazorApp\BlazorApp\obj\Release\net7.0\PubTmp\Out\System.Memory.Data.dll
